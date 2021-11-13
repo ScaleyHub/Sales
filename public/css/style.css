@@ -1,0 +1,31 @@
+.hero{
+    background-image: url('../images/guitar.jpg'); 
+    margin-top: 5px;
+}
+h2{
+    font-size: 100px;
+    color: white;
+    text-shadow: rgb(red, green, blue);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card1{
+    background-color: rgb(228, 210, 111); 
+}
+.card2{
+    background-color: rgb(228, 210, 111); 
+    
+}
+.card3{
+    background-color: rgb(228, 210, 111); 
+}
+
+.card-title{
+    color: rgb(7, 69, 241);
+}
+
+.index{
+    margin-top: 20px;
+}
+p{
+    text-align: justify;
+}
